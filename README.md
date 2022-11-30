@@ -5,4 +5,4 @@ Convert an Ultimaker Original into a Claw Machine
   src="/PXL_20221130_133623931.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
